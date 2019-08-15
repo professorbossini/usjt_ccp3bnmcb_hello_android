@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">usjt_ccp3bnmcb_hello_android</string>
+    <string name="deitel_logo">Deitels Käfer hat zwei Daumen nach oben</string>
+    <string name="welcome">" 34/5000 Willkommen bei der Android App-Entwicklung"</string>
+</resources>
